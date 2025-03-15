@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "zGg6rCov3Bk=",
+  "success": true,
+  "projectFilePath": "/home/ggenjoyer/Documents/kpo/kr1f/fold1/kr1/src/kr1.csproj",
+  "expectedPackageFiles": [
+    "/home/ggenjoyer/.nuget/packages/microsoft.extensions.dependencyinjection/9.0.3/microsoft.extensions.dependencyinjection.9.0.3.nupkg.sha512",
+    "/home/ggenjoyer/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/9.0.3/microsoft.extensions.dependencyinjection.abstractions.9.0.3.nupkg.sha512",
+    "/home/ggenjoyer/.nuget/packages/yamldotnet/16.3.0/yamldotnet.16.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
