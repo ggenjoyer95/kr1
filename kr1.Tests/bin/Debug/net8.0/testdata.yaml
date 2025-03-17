@@ -1,0 +1,17 @@
+accts:
+- id: 708a44ab-2870-489e-8bc9-2e39f92d86c1
+  name: TestAcc
+  balance: 1000
+  initialBalance: 1000
+cats:
+- id: e6649b2e-019c-467b-9752-0add187d5641
+  type: Income
+  label: Salary
+trans:
+- id: 1f12659e-2383-4633-9e18-96fa0519d694
+  type: Income
+  accountId: 69a767c0-eddd-4d1c-850b-47a92a37745c
+  amount: 300
+  date: 2025-03-15T01:01:59.1802550+03:00
+  note: Bonus
+  categoryId: 73f683eb-e333-489c-ac28-8ad61cb3046c
